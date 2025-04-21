@@ -4,15 +4,13 @@ I’m Daniel, a Data Engineer who loves turning messy data and ambitious ideas i
 
 💡 About Me
 
-Data engineer + Django developer—I build data platforms and the web apps that use them.
+- Data engineer + Django developer—I build data platforms and the web apps that use them.
 
-Fluent in Python, comfortable in JavaScript & Google Apps Script.
+- Fluent in Python, comfortable in JavaScript & Google Apps Script.
 
-Fan of open standards, clean code, and explain‑it‑like‑I’m‑five documentation.
+- Dashboarding with Looker Studio & Power BI.
 
-Dashboarding with Looker Studio & Power BI.
-
-Rapid internal tooling with Retool.
+- Rapid internal tooling with Retool.
 
 ⚙️ Toolbox & Tech
 
